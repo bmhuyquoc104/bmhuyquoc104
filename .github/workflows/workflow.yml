@@ -13,7 +13,7 @@ jobs:
       - uses: bmhuyquoc104/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ 548b2e2d-4d40-4130-96a2-714e38146e6e }}
-          GH_TOKEN: ${{ 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 }}
+          GH_TOKEN: ${{ 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 }}
           SHOW_LANGUAGE:"true"
 
 

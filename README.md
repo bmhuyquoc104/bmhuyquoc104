@@ -97,11 +97,82 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 220 Contributions in the Year 2022
+ > 
+> 📦 19.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 13 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-No activity tracked
+🌞 Morning    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.25% 
+🌆 Daytime    131 commits    ███████████░░░░░░░░░░░░░░   46.62% 
+🌃 Evening    108 commits    █████████░░░░░░░░░░░░░░░░   38.43% 
+🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.69%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
+Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
+Wednesday    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
+Friday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Saturday     53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
+Sunday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.37%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     12 repos            ████████░░░░░░░░░░░░░░░░░   35.29% 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+CSS                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/03/2022 10:20:03 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

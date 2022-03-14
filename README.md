@@ -37,7 +37,8 @@
 
 <details> 
     <summary>👨‍💻 <em> Recent Commit:</em></summary>
-            <!--START_SECTION:activity-->
+ <!--START_SECTION:activity-->
+         
  </details>
  
 

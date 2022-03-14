@@ -38,6 +38,9 @@
 <details> 
     <summary>👨‍💻 <em> Recent Commit:</em></summary>
             <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/drew-frontend-challenges/todo-app/pull/1) in [drew-frontend-challenges/todo-app](https://github.com/drew-frontend-challenges/todo-app)
+2. 💪 Opened PR [#1](https://github.com/drew-frontend-challenges/todo-app/pull/1) in [drew-frontend-challenges/todo-app](https://github.com/drew-frontend-challenges/todo-app)
+<!--END_SECTION:activity-->
  </details>
  
 

@@ -22,7 +22,7 @@
 - 👫 I'm looking for an opportunity to collaborate with others on React projects
   
 <details> 
-    <summary> <em>💡 Fun fact:</em></summary>
+    <summary>💡 <em> Fun fact:</em></summary>
      
      🎮 I love `Esport` 
     
@@ -35,7 +35,10 @@
      🧳 `Traveling`
  </details>
 
-  
+<details> 
+    <summary>👨‍💻 <em> Recent Commit:</em></summary>
+            <!--START_SECTION:activity-->
+ </details>
  
 
 
@@ -58,8 +61,6 @@
 - ### *Github Streak:*
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bmhuyquoc104&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D&background=08141C)](https://git.io/streak-stats)
-
-
 
 
 ## 3. Connect with me by:

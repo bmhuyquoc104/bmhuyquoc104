@@ -1,6 +1,6 @@
 # Huy Vo's Github Profile
 
-### Hello There 💪 , Welcome to my Github Profile 👋
+### Hello there 💪 , Welcome to my Github Profile 👋
 
 ## 1. Information
 
@@ -8,11 +8,11 @@
 - 📖 I'm currently learning ReactJS and other JavaScript libraries and frameworks.
 - 🎯 My goal for 2022 is getting used to the MERN stack and Web3.
 - 👫 I'm looking for an opportunity to collaborate with others on React projects
-- 💡 Fun fact: 🎮 I love `watch Esport`, ⚽️ `playing soccer `and 🧳 `traveling`
+- 💡 Fun fact: 🎮 I love `Esport`, ⚽️ play `soccer`, 📚 read `book`, 🎬 watch `movie` and 🧳 `traveling`
 
 
-## 2. Github Stats
-- ### Github Overall:
+## 2. Github Overall
+- ### Github stats:
 
 
 ![Huy Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmhuyquoc104&theme=codeSTACKr&show_icons=true)
@@ -25,7 +25,7 @@
 - ### Github trophy:
 
 
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
+![](https://github-profile-trophy.vercel.app/?username=bmhuyquoc104&theme=dark_lover)
 
 - ### Github Streak:
 
@@ -70,4 +70,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+[![MasterHead](your image link)](your GitHub link)
 

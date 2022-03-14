@@ -1,15 +1,15 @@
  
 
 
-# Huy Vo's Github Profile
+# ***Huy Vo's Github Profile***
 
-### Hello there 💪 , Welcome to my Github  👋
-
-  - [1. Information](#1-information)
+### Hello there 💪 , Welcome to my  <ins>Github</ins>  👋
+  - [1. Background](#1-background)
   - [2. Github Overall](#2-github-overall)
-  - [5. Languages and tools](#5-languages-and-tools)
-  - [6. My recent activities:](#6-my-recent-activities)
-  - [7. Daily.dev](#7-dailydev)
+  - [3. Connect with me by:](#3-connect-with-me-by)
+  - [4. Languages and tools:](#4-languages-and-tools)
+  - [5. My recent activities:](#5-my-recent-activities)
+  - [6. Current reading from daily.dev](#6-current-reading-from-dailydev)
  
 
 [![MasterHead](header.png)](https://github.com/bmhuyquoc104)
@@ -22,7 +22,7 @@
 - 👫 I'm looking for an opportunity to collaborate with others on React projects
   
 <details> 
-    <summary>💡 Fun fact: </summary>
+    <summary> <em>💡 Fun fact:</em></summary>
      
      🎮 I love `Esport` 
     
@@ -40,29 +40,29 @@
 
 
 ## 2. Github Overall
-- ### Github stats:
+- ### *Github stats:*
 
 
 ![Huy Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmhuyquoc104&theme=codeSTACKr&show_icons=true)
 
-- ### Github most used language:
+- ### *Github most used language:*
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmhuyquoc104&theme=codeSTACKr&&hide=java,layout=compact)](https://github.com/bmhuyquoc104)
 
-- ### Github trophy:
+- ### *Github trophies:*
 
 
 ![](https://github-profile-trophy.vercel.app/?username=bmhuyquoc104&theme=dark_lover)
 
-- ### Github Streak:
+- ### *Github Streak:*
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bmhuyquoc104&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D&background=08141C)](https://git.io/streak-stats)
 
 
 
 
-<h2 align="left">4. Connect with me:</h2>
+## 3. Connect with me by:
 <p align="left">
 <a href="https://twitter.com/QucHuyV8" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />
@@ -73,7 +73,7 @@
 </p>
 
 
-## 5. Languages and tools
+## 4. Languages and tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -95,7 +95,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-## 6. My recent activities:
+## 5. My recent activities:
 <!--START_SECTION:waka-->
 
 ```text
@@ -104,8 +104,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 7. Daily.dev
+## 6. Current reading from daily.dev
 
-<a href="https://app.daily.dev/bmhuyquoc104"><img src="https://api.daily.dev/devcards/59f493b6ce864ce79fd3aceaaf460465.png?r=koc" width="400" alt="Võ Quốc Huy's Dev Card"/></a>
+<a href="https://app.daily.dev/bmhuyquoc104"><img src="https://api.daily.dev/devcards/59f493b6ce864ce79fd3aceaaf460465.png?r=koc" width="350" alt="Võ Quốc Huy's Dev Card"/></a>
 
 

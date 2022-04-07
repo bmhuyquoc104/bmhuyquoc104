@@ -35,17 +35,7 @@
      🧳 `Traveling`
  </details>
   
-<details> 
-    <summary>👨‍💻 <em> Recent Commit:</em></summary>
-    
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bmhuyquoc104/todoApp/pull/2) in [bmhuyquoc104/todoApp](https://github.com/bmhuyquoc104/todoApp)
-2. ❌ Closed PR [#1](https://github.com/bmhuyquoc104/todoApp/pull/1) in [bmhuyquoc104/todoApp](https://github.com/bmhuyquoc104/todoApp)
-<!--END_SECTION:activity-->
- </details>
  
-
-
 ## 2. Github Overall
 - ### *Github stats:*
 

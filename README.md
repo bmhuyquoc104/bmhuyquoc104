@@ -17,9 +17,10 @@
 ## 1. Background
 
 - 👨‍💻 I'm a third-year Software Engineering student in RMIT VietNam
-- 📖 I'm currently learning and doing full stack web projects.
-- 🎯 My goal for the rest of 2022 is learning more tech related to JS and TS as well as build more projects using React and its eco-systems.
-- 👫 I'm looking for an opportunity to collaborate with others on full stack projects
+- 📖 I'm currently doing full stack web challenges in devChallenges.
+- 🎯 My goal for the rest of 2022 is reaching a level of junior Javascript developer.
+- 📱 I have done some projects in Machine Learning, Android and IOS development. 
+- 👫 I'm looking for an opportunity to collaborate with others on Javascript full stack projects
   
 <details> 
     <summary>💡 <em> Fun fact:</em></summary>

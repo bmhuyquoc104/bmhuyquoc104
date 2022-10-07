@@ -57,6 +57,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bmhuyquoc104&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D&background=08141C)](https://git.io/streak-stats)
 
+- ### *Github Contribution Graph:*
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=bmhuyquoc104&theme=react-dark"/>
 
 ## 3. Connect with me by:
 <p align="left">
@@ -111,6 +113,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 #### 7. Others
+ ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 

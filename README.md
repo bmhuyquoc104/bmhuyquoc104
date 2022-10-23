@@ -122,7 +122,7 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -130,7 +130,7 @@
 
 > 🏆 1,272 Contributions in the Year 2022
  > 
-> 📦 311.1 kB Used in GitHub's Storage 
+> 📦 311.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -200,7 +200,7 @@ Swift                    6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/10/2022 02:16:08 UTC
+ Last Updated on 23/10/2022 02:29:10 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

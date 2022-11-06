@@ -124,7 +124,7 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -208,7 +208,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 01:59:56 UTC
+ Last Updated on 06/11/2022 02:04:18 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

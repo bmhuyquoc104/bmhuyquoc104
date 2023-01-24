@@ -169,18 +169,16 @@ Sunday       170 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               9 hrs 13 mins       █████████████████████░░░░   85.48% 
-Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 hrs 47 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Cardinalis-FE            10 hrs 47 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 hrs 47 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -201,7 +199,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 01:30:49 UTC
+ Last Updated on 24/01/2023 01:32:24 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

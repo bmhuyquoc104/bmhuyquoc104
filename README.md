@@ -126,7 +126,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -199,7 +199,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2023 01:26:38 UTC
+ Last Updated on 26/01/2023 01:29:10 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

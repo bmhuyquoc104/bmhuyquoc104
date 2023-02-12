@@ -124,7 +124,7 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -132,7 +132,7 @@
 
 > 🏆 68 Contributions in the Year 2023
  > 
-> 📦 312.9 kB Used in GitHub's Storage 
+> 📦 313.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -206,7 +206,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2023 01:29:02 UTC
+ Last Updated on 12/02/2023 01:43:40 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

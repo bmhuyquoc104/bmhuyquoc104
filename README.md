@@ -130,7 +130,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 333.5 kB Used in GitHub's Storage 
+> 📦 333.6 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2024
  > 
@@ -167,16 +167,18 @@ Sunday                   746 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      26 mins             █████████████░░░░░░░░░░░░   50.46 % 
+Python                   25 mins             ████████████░░░░░░░░░░░░░   48.99 % 
+Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+data-pipeline-composer   51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -196,7 +198,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 01:09:35 UTC
+ Last Updated on 16/02/2024 01:09:09 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

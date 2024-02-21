@@ -124,7 +124,7 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -167,7 +167,7 @@ Sunday                   746 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-SQL                      1 hr 59 mins        ███████████████░░░░░░░░░░   58.44 % 
+SQL                      1 hr 59 mins        ███████████████░░░░░░░░░░   58.43 % 
 Python                   59 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
 JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
@@ -202,7 +202,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2024 01:07:12 UTC
+ Last Updated on 21/02/2024 01:08:27 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

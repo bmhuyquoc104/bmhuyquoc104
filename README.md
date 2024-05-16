@@ -124,7 +124,7 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -167,11 +167,11 @@ Sunday                   739 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     24 hrs 38 mins      ████████████████████████░   94.82 % 
-Text                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Ruby                     24 hrs 29 mins      ████████████████████████░   94.27 % 
+Text                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-CSV file                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+CSV file                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
 RubyMine                 25 hrs 58 mins      █████████████████████████   99.97 % 
@@ -205,7 +205,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2024 01:14:04 UTC
+ Last Updated on 16/05/2024 01:13:50 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

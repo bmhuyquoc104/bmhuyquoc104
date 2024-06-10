@@ -130,7 +130,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 333.4 kB Used in GitHub's Storage 
+> 📦 333.6 kB Used in GitHub's Storage 
  > 
 > 🏆 34 Contributions in the Year 2024
  > 
@@ -204,7 +204,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2024 01:23:06 UTC
+ Last Updated on 10/06/2024 01:18:23 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

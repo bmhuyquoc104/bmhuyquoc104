@@ -126,7 +126,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C290%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -196,7 +196,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2024 01:43:44 UTC
+ Last Updated on 02/09/2024 01:26:17 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

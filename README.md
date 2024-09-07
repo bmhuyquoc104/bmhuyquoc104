@@ -124,13 +124,15 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C290%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C290%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 334.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -198,7 +200,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2024 01:25:05 UTC
+ Last Updated on 07/09/2024 01:23:42 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

@@ -132,8 +132,6 @@
 
 > 📦 334.6 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -200,7 +198,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2024 01:25:24 UTC
+ Last Updated on 12/09/2024 01:25:46 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

@@ -126,11 +126,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C290%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 334.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,20 +167,16 @@ Sunday                   765 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     33 mins             ██████████████████████░░░   87.75 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-UNKNOWN                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RubyMine                 37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tch                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -198,7 +196,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2024 01:25:46 UTC
+ Last Updated on 13/09/2024 01:26:08 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

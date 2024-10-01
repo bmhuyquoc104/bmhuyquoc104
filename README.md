@@ -124,13 +124,15 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C291%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C291%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 335.9 kB Used in GitHub's Storage 
+> 📦 336.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 85 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,18 +167,18 @@ Sunday                   783 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     23 mins             █████████████████████████   99.91 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Text                     1 min               █████████░░░░░░░░░░░░░░░░   37.70 % 
+YAML                     1 min               █████████░░░░░░░░░░░░░░░░   34.60 % 
+Ruby                     1 min               ███████░░░░░░░░░░░░░░░░░░   27.70 % 
 
 🔥 Editors: 
-RubyMine                 24 mins             █████████████████████████   100.00 % 
+RubyMine                 4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tch                      24 mins             █████████████████████████   100.00 % 
+tch                      4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -196,7 +198,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 01:40:17 UTC
+ Last Updated on 01/10/2024 01:45:08 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

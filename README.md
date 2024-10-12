@@ -130,15 +130,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 333.8 kB Used in GitHub's Storage 
+> 📦 334.0 kB Used in GitHub's Storage 
  > 
 > 🏆 99 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 41 Private Repositories 
+> 🔑 40 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -167,20 +167,16 @@ Sunday                   800 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     8 mins              ████████████░░░░░░░░░░░░░   46.28 % 
-Ruby                     7 mins              ███████████░░░░░░░░░░░░░░   43.81 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RubyMine                 17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tch                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -200,7 +196,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 01:29:20 UTC
+ Last Updated on 12/10/2024 01:27:37 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

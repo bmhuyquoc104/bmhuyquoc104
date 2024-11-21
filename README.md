@@ -130,7 +130,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 335.2 kB Used in GitHub's Storage 
+> 📦 333.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 118 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -194,7 +196,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 01:41:52 UTC
+ Last Updated on 21/11/2024 01:41:55 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

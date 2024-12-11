@@ -132,8 +132,6 @@
 
 > 📦 335.3 kB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -196,7 +194,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 01:47:51 UTC
+ Last Updated on 11/12/2024 01:46:28 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev

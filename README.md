@@ -1,5 +1,3 @@
- 
-
 
 # ***Huy Vo's Github Profile***
 
@@ -16,26 +14,8 @@
 
 ## 1. Background
 
-- 👨‍💻 I'm a third-year Software Engineering student in RMIT VietNam
-- 📖 I'm currently doing full stack web challenges in devChallenges.
-- 🎯 My goal for the rest of 2022 is reaching a level of junior Javascript developer.
-- 📱 I have done some projects in Machine Learning, Android and IOS development. 
-- 👫 I'm looking for an opportunity to collaborate with others on Javascript full stack projects
-  
-<details> 
-    <summary>💡 <em> Fun fact:</em></summary>
-     
-     🎮 I love `Esport` 
-    
-     ⚽️ Play `soccer` 
-     
-     📚 Read `book` 
-     
-     🎬 Watch `movie`  
-     
-     🧳 `Traveling`
- </details>
-  
+- 👨‍💻 I'm a Backend SoftWare Engineer.
+
  
 ## 2. Github Overall
 - ### *Github stats:*

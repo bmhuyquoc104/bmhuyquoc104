@@ -104,13 +104,11 @@
 
 ## 5. My recent activities:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C294%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 248.0 kB Used in GitHub's Storage 
+> 📦 248.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2025
  > 
@@ -176,7 +174,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bmhuyquoc104/bmhuyquoc104/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 01:29:29 UTC
+ Last Updated on 10/01/2025 01:39:47 UTC
 <!--END_SECTION:waka-->
 
 ## 6. Current reading from daily.dev
